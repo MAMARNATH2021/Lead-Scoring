@@ -1,7 +1,9 @@
 Project Overview
+
 X Education sells online courses to industry professionals. The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead and also from past referrals. Once these leads are acquired the sales team makes the calls and send the mails to convert the leads into actual business.
 
 Problem Statement
+
 The problem is the lead conversion % is poor for ex out of 100 leads only 30% got converted. To come out of this situation and improve the conversion % by Identifying the Potential leads also known as "HOT LEADS".
 
 The target variable, in this case, is the column ‘Converted’ which tells whether a past lead was converted or not wherein 1 means it was converted and 0 means it wasn’t converted.
